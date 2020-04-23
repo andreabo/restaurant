@@ -11,7 +11,7 @@ import java.util.List;
 public class Common {
 
     public List<String> readFile() {
-        String path = "/Users/carol.bohorquez/Documents/programming basic";
+        String path = "/Users/carol.bohorquez/Documents/programming basic/restaurant/src/resources/";
         String filename = "ingredientes.txt";
         List<String> lines = new ArrayList<>();
         try {
